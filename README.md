@@ -1,5 +1,6 @@
 # Codeigniter-4
 
-# Admin
-email : admin@gmail.com
+LOGIN ADMIN
+
+email : admin@gmail.com <br>
 pass : 123
